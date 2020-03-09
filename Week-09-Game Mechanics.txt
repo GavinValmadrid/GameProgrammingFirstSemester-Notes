@@ -1,0 +1,10 @@
+<!---Week 09 --->
+<!---Date: 3/9/2020--->
+
+-Your game shouldn't be unpredictable.
+-If you're making a side scroller game, your game should have an indicator of the hazards.
+-Complex gameplay created by game rules
+-Choices made by players
+-Chance is the easiest to implement but not always the best way to implement unpredictability.
+-Complex rules can be very difficult to design and make games overwhelming.
+-Mechanic is more detailed and concrete than a rule
